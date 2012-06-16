@@ -1,12 +1,12 @@
 Summary:	HTML to XHTML convertor
 Summary(pl.UTF-8):	Konwerter z HTML do XHTML
 Name:		htx
-Version:	0.7.6
+Version:	0.7.8
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://stuff.myrealm.co.uk/htx/%{name}-%{version}.tar.gz
-# Source0-md5:	0237ad727593646f68dbafd8e9e3e370
+# Source0-md5:	bd332030ed20e20ca0757b3e18bb1240
 Requires:	perl-base
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
